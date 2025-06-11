@@ -1,7 +1,7 @@
 # california-housing-prediction
 A machine learning project that predicts median house prices in California using demographic, economic, and geographic features. It includes data preprocessing, visualization, model training (Linear Regression), and evaluation with future scope for model improvement.
 
-![Top Los Angeles 4k Wallpaper Full HD 1080p For Pc Desktop](https://github.com/user-attachments/assets/ef9c6a76-7ac0-4d82-bfd2-8c1c60481148)
+![Top Los Angeles 4k Wallpaper Full HD 1080p For Pc Desktop](https://github.com/user-attachments/assets/660a679d-d1f2-4b18-9fab-e82e62d7967e)
 
 ---
 
