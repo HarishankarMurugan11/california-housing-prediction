@@ -1,7 +1,7 @@
 # california-housing-prediction
 A machine learning project that predicts median house prices in California using demographic, economic, and geographic features. It includes data preprocessing, visualization, model training (Linear Regression), and evaluation with future scope for model improvement.
 
-![Uploading anatolii-nesterov-Fiq341OZyMk-unsplash.jpg…]()
+![anatolii-nesterov-Fiq341OZyMk-unsplash](https://github.com/user-attachments/assets/6eaf3413-e35b-48f5-86a4-77c60dc45cf2)
 
 ---
 
